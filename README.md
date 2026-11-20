@@ -42,7 +42,7 @@ The supervisor connects with `ServerInfo(ip, 443, false)`, which is a plain `ws:
 
 ## Usage
 
-Custom monitor, from the original README:
+Custom monitor, adapted from the original README and `test/server_info.js`:
 
 ```js
 import ServerInfo from '../lib/server_info'
